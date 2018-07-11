@@ -1,6 +1,8 @@
 def simple_curfew_checker(time)
  if simple_curfew_checker == 11
   puts "You're in trouble! Better get home quick!"
+  elsif simple_curfew_checker >= 11
+  puts "You're in trouble! Better get home quick!"
  end
 end
 
